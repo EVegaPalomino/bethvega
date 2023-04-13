@@ -1,2 +1,4 @@
-# bethvega
-este es un repositorio para aprender 
+Elizabeth Vega Palomino. este es un repositorio para aprendercomandos de pushing 
+
+holaaaaaaaaaaaaaa lola
+ 
